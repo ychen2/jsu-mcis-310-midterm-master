@@ -5,9 +5,9 @@ sourceCompatibility = 1.7
 version = '1.0'
 jar {
     manifest {
-        attributes 'Implementation-Title': 'Hangman', 
+        attributes 'Implementation-Title': 'ConnectFour', 
                    'Implementation-Version': version, 
-                   'Main-Class': 'edu.jsu.mcis.Hangman'
+                   'Main-Class': 'edu.jsu.mcis.ConnectFour'
     }
 }
 
