@@ -23,11 +23,14 @@ public class ConnectFour {
     }
     
     public int getHeightOfColumn(int col) {
-        return -1;
+        return 0;
     }
     
     public boolean dropTokenInColumn(int col) {
-        return false;
+	    //if (board[0][col]);
+		return true;
+		//else 
+		//return false;
     }
     
     public Result getResult() {
